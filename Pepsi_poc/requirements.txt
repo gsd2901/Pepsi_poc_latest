@@ -4,3 +4,8 @@ sqlalchemy==2.0.29
 pydantic==2.6.4
 pydantic-settings==2.2.1
 python-dotenv==1.0.1
+pyodbc==5.1.0
+aioodbc==0.5.0
+azure-keyvault-secrets==4.8.0
+azure-identity==1.16.0
+azure-storage-blob==12.19.0
